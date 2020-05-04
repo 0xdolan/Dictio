@@ -31,22 +31,20 @@
 10. Click on `Apply`, then `OK`.
 11. Done.
 
-## Screenshots
+![Programs](https://raw.githubusercontent.com/dolanskurd/Dictio/master/screenshots/dictio_003.png)
 
-![]()
-
-![]()
-
-![]()
+![Type](https://raw.githubusercontent.com/dolanskurd/Dictio/master/screenshots/diction_004.png)
 
 
 ### Dictio Dictionary on its website [http://dictio.kurditgroup.org/dictio]:
 
-![]()
+![Dictio Dictionary on its website](https://raw.githubusercontent.com/dolanskurd/Dictio/master/screenshots/dictio_000.png)
 
 ### Dictio Dictionary on GoldenDict:
 
-![]()
+![Dictio Dictionary on GoldenDict](https://raw.githubusercontent.com/dolanskurd/Dictio/master/screenshots/dictio_001.png)
+
+![Dictio Dictionary on GoldenDict](https://raw.githubusercontent.com/dolanskurd/Dictio/master/screenshots/dictio_002.png)
 
 
 ### Fonts needed:
