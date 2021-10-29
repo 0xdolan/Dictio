@@ -134,7 +134,7 @@ if word.isascii():
     print(css, "<br>")
     for container in soup.find_all("div", "col-md-8 offset-md-2"):
         for ul in container.find_all("ul"):
-            for li in ul.find_all("li", class_=["list-group-item", "rtl"]):
+            for li in ul.find_all("li", class_=["list-group-item"]):
                 for ku_meaning in li.find_all("span", "dictio-result-item"):
                     print(css, '<div class="ku">' + ku_meaning.text + "</div>")
                     print(css, "<br>")
